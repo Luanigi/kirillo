@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luanigi
 - 👀 I’m interested in Coding/Programming
-- 🌱 I’m currently learning Web Development that means (HTML, CSS, JS, SAAS)
+- 🌱 I’m currently learning Web Development that means (HTML, CSS, JS)
 - 📫Contact me: lurro@icloud.com
 
 <!---
